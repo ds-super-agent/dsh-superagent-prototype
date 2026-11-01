@@ -10,7 +10,7 @@ It is also a way of working with an agent: **take as little human attention as p
 
 ## Setup
 
-Setup has many steps, so an agent does it with you. Ask your coding agent:
+Setup covers the prerequisites, a separate DSH profile for the agent, and the sources, permissions and execution rules it works by, so a coding agent runs it with you instead of you editing files by hand. Ask your coding agent:
 
 > Read SETUP.md in this repository and set up dsh-superagent with me.
 
